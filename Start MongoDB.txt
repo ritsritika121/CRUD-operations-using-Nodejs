@@ -1,0 +1,6 @@
+cd C:\Users\ACER\mongodb\bin
+mongod.exe --dbpath C:\Users\ACER\mongodb-data
+
+NOTE:*change the extension from .txt to .bat of this file and delete this NOTE text and then run it.
+Or find the .bat file and run it start the database connection.
+
